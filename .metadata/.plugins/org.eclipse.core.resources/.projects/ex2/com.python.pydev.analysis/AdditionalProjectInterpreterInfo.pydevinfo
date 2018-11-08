@@ -1,12 +1,21 @@
 -- VERSION_5
 -- START DISKCACHE_2
 /home/fdai4270/workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/ex2/com.python.pydev.analysis/v2_indexcache
+ex2|1541675035479357000|/home/fdai4270/workspace/ex2/ex2.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+2
+1=/home/fdai4270/workspace/ex2/ex2.py
+2=ex2
 -- END DICTIONARY
 -- START TREE 1
-0
+6
+cla|3|class4Mask!1^54#1*19@class4or9Mask!1^59#1*19@classVector!1^32#1*19@
+ind|1|indices!1^72#1*19@
+ran|1|randomizedStack!1^76#1*19@
+sam|2|sample10!1^42#1*19@samplesPerClass!1^37#1*19@
+tes|3|testl!1^7#5*19@test!1^27#1*19@testd!1^6#5*19@
+tra|3|traind!1^4#5*19@train1!1^5#5*19@traind_class4!1^55#1*19@
 -- END TREE
 -- START TREE 2
 0

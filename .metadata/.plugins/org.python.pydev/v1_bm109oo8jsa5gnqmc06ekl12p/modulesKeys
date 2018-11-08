@@ -2252,6 +2252,7 @@ numpy.compat.setup|/usr/lib64/python2.7/site-packages/numpy/compat/setup.py
 numpy.compat.tests.__init__|/usr/lib64/python2.7/site-packages/numpy/compat/tests/__init__.py
 numpy.compat.tests.test_compat|/usr/lib64/python2.7/site-packages/numpy/compat/tests/test_compat.py
 numpy.conftest|/usr/lib64/python2.7/site-packages/numpy/conftest.py
+numpy.core
 numpy.core.__init__|/usr/lib64/python2.7/site-packages/numpy/core/__init__.py
 numpy.core._dummy|/usr/lib64/python2.7/site-packages/numpy/core/_dummy.so
 numpy.core._internal|/usr/lib64/python2.7/site-packages/numpy/core/_internal.py
@@ -2460,6 +2461,7 @@ numpy.fft.setup|/usr/lib64/python2.7/site-packages/numpy/fft/setup.py
 numpy.fft.tests.__init__|/usr/lib64/python2.7/site-packages/numpy/fft/tests/__init__.py
 numpy.fft.tests.test_fftpack|/usr/lib64/python2.7/site-packages/numpy/fft/tests/test_fftpack.py
 numpy.fft.tests.test_helper|/usr/lib64/python2.7/site-packages/numpy/fft/tests/test_helper.py
+numpy.lib
 numpy.lib.__init__|/usr/lib64/python2.7/site-packages/numpy/lib/__init__.py
 numpy.lib._compiled_base|/usr/lib64/python2.7/site-packages/numpy/lib/_compiled_base.so
 numpy.lib._datasource|/usr/lib64/python2.7/site-packages/numpy/lib/_datasource.py
@@ -2542,6 +2544,7 @@ numpy.ma.testutils|/usr/lib64/python2.7/site-packages/numpy/ma/testutils.py
 numpy.ma.timer_comparison|/usr/lib64/python2.7/site-packages/numpy/ma/timer_comparison.py
 numpy.ma.version|/usr/lib64/python2.7/site-packages/numpy/ma/version.py
 numpy.matlib|/usr/lib64/python2.7/site-packages/numpy/matlib.py
+numpy.matrixlib
 numpy.matrixlib.__init__|/usr/lib64/python2.7/site-packages/numpy/matrixlib/__init__.py
 numpy.matrixlib.defmatrix|/usr/lib64/python2.7/site-packages/numpy/matrixlib/defmatrix.py
 numpy.matrixlib.setup|/usr/lib64/python2.7/site-packages/numpy/matrixlib/setup.py
