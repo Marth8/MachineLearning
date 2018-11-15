@@ -2619,6 +2619,7 @@ numpy.polynomial.tests.test_legendre|/usr/lib64/python2.7/site-packages/numpy/po
 numpy.polynomial.tests.test_polynomial|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_polynomial.py
 numpy.polynomial.tests.test_polyutils|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_polyutils.py
 numpy.polynomial.tests.test_printing|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_printing.py
+numpy.random
 numpy.random.__init__|/usr/lib64/python2.7/site-packages/numpy/random/__init__.py
 numpy.random.info|/usr/lib64/python2.7/site-packages/numpy/random/info.py
 numpy.random.mtrand|/usr/lib64/python2.7/site-packages/numpy/random/mtrand.so
