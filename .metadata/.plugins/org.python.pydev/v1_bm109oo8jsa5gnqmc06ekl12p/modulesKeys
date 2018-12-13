@@ -223,6 +223,8 @@ _io|/usr/lib64/python2.7/lib-dynload/_io.so
 _json|/usr/lib64/python2.7/lib-dynload/_json.so
 _locale|/usr/lib64/python2.7/lib-dynload/_locale.so
 _lsprof|/usr/lib64/python2.7/lib-dynload/_lsprof.so
+_markerlib.__init__|/usr/lib/python2.7/site-packages/_markerlib/__init__.py
+_markerlib.markers|/usr/lib/python2.7/site-packages/_markerlib/markers.py
 _markupbase.__init__|/usr/lib/python2.7/site-packages/_markupbase/__init__.py
 _md5|/usr/lib64/python2.7/lib-dynload/_md5.so
 _multibytecodec|/usr/lib64/python2.7/lib-dynload/_multibytecodec.so
@@ -2616,6 +2618,7 @@ numpy.polynomial.tests.test_legendre|/usr/lib64/python2.7/site-packages/numpy/po
 numpy.polynomial.tests.test_polynomial|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_polynomial.py
 numpy.polynomial.tests.test_polyutils|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_polyutils.py
 numpy.polynomial.tests.test_printing|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_printing.py
+numpy.random
 numpy.random.__init__|/usr/lib64/python2.7/site-packages/numpy/random/__init__.py
 numpy.random.info|/usr/lib64/python2.7/site-packages/numpy/random/info.py
 numpy.random.mtrand|/usr/lib64/python2.7/site-packages/numpy/random/mtrand.so
@@ -3027,6 +3030,13 @@ pip._vendor.webencodings.tests|/usr/lib/python2.7/site-packages/pip/_vendor/webe
 pip._vendor.webencodings.x_user_defined|/usr/lib/python2.7/site-packages/pip/_vendor/webencodings/x_user_defined.py
 pipes|/usr/lib64/python2.7/pipes.py
 pkg_resources.__init__|/usr/lib/python2.7/site-packages/pkg_resources/__init__.py
+pkg_resources._vendor.__init__|/usr/lib/python2.7/site-packages/pkg_resources/_vendor/__init__.py
+pkg_resources._vendor.packaging.__about__|/usr/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__about__.py
+pkg_resources._vendor.packaging.__init__|/usr/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/__init__.py
+pkg_resources._vendor.packaging._compat|/usr/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_compat.py
+pkg_resources._vendor.packaging._structures|/usr/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/_structures.py
+pkg_resources._vendor.packaging.specifiers|/usr/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/specifiers.py
+pkg_resources._vendor.packaging.version|/usr/lib/python2.7/site-packages/pkg_resources/_vendor/packaging/version.py
 pkgutil|/usr/lib64/python2.7/pkgutil.py
 planner|/usr/lib64/python2.7/site-packages/planner.so
 plannerui|/usr/lib64/python2.7/site-packages/plannerui.so
@@ -4007,6 +4017,7 @@ setuptools.command.setopt|/usr/lib/python2.7/site-packages/setuptools/command/se
 setuptools.command.test|/usr/lib/python2.7/site-packages/setuptools/command/test.py
 setuptools.command.upload|/usr/lib/python2.7/site-packages/setuptools/command/upload.py
 setuptools.command.upload_docs|/usr/lib/python2.7/site-packages/setuptools/command/upload_docs.py
+setuptools.compat|/usr/lib/python2.7/site-packages/setuptools/compat.py
 setuptools.config|/usr/lib/python2.7/site-packages/setuptools/config.py
 setuptools.dep_util|/usr/lib/python2.7/site-packages/setuptools/dep_util.py
 setuptools.depends|/usr/lib/python2.7/site-packages/setuptools/depends.py
@@ -4017,6 +4028,7 @@ setuptools.launch|/usr/lib/python2.7/site-packages/setuptools/launch.py
 setuptools.lib2to3_ex|/usr/lib/python2.7/site-packages/setuptools/lib2to3_ex.py
 setuptools.monkey|/usr/lib/python2.7/site-packages/setuptools/monkey.py
 setuptools.msvc|/usr/lib/python2.7/site-packages/setuptools/msvc.py
+setuptools.msvc9_support|/usr/lib/python2.7/site-packages/setuptools/msvc9_support.py
 setuptools.namespaces|/usr/lib/python2.7/site-packages/setuptools/namespaces.py
 setuptools.package_index|/usr/lib/python2.7/site-packages/setuptools/package_index.py
 setuptools.py26compat|/usr/lib/python2.7/site-packages/setuptools/py26compat.py
@@ -4027,6 +4039,7 @@ setuptools.py36compat|/usr/lib/python2.7/site-packages/setuptools/py36compat.py
 setuptools.sandbox|/usr/lib/python2.7/site-packages/setuptools/sandbox.py
 setuptools.ssl_support|/usr/lib/python2.7/site-packages/setuptools/ssl_support.py
 setuptools.unicode_utils|/usr/lib/python2.7/site-packages/setuptools/unicode_utils.py
+setuptools.utils|/usr/lib/python2.7/site-packages/setuptools/utils.py
 setuptools.version|/usr/lib/python2.7/site-packages/setuptools/version.py
 setuptools.windows_support|/usr/lib/python2.7/site-packages/setuptools/windows_support.py
 setuputils|/usr/lib/python2.7/site-packages/setuputils.py
