@@ -13,6 +13,7 @@ ArgImagePlugin|/usr/lib64/python2.7/site-packages/PIL/ArgImagePlugin.py
 BaseHTTPServer|/usr/lib64/python2.7/BaseHTTPServer.py
 Bastion|/usr/lib64/python2.7/Bastion.py
 BdfFontFile|/usr/lib64/python2.7/site-packages/PIL/BdfFontFile.py
+BlpImagePlugin|/usr/lib64/python2.7/site-packages/PIL/BlpImagePlugin.py
 BmpImagePlugin|/usr/lib64/python2.7/site-packages/PIL/BmpImagePlugin.py
 BufrStubImagePlugin|/usr/lib64/python2.7/site-packages/PIL/BufrStubImagePlugin.py
 CDROM|/usr/lib64/python2.7/plat-linux2/CDROM.py
@@ -24,6 +25,7 @@ Cookie|/usr/lib64/python2.7/Cookie.py
 CurImagePlugin|/usr/lib64/python2.7/site-packages/PIL/CurImagePlugin.py
 DLFCN|/usr/lib64/python2.7/plat-linux2/DLFCN.py
 DcxImagePlugin|/usr/lib64/python2.7/site-packages/PIL/DcxImagePlugin.py
+DdsImagePlugin|/usr/lib64/python2.7/site-packages/PIL/DdsImagePlugin.py
 Dialog|/usr/lib64/python2.7/lib-tk/Dialog.py
 DocXMLRPCServer|/usr/lib64/python2.7/DocXMLRPCServer.py
 EpsImagePlugin|/usr/lib64/python2.7/site-packages/PIL/EpsImagePlugin.py
@@ -34,6 +36,7 @@ FixTk|/usr/lib64/python2.7/lib-tk/FixTk.py
 FliImagePlugin|/usr/lib64/python2.7/site-packages/PIL/FliImagePlugin.py
 FontFile|/usr/lib64/python2.7/site-packages/PIL/FontFile.py
 FpxImagePlugin|/usr/lib64/python2.7/site-packages/PIL/FpxImagePlugin.py
+FtexImagePlugin|/usr/lib64/python2.7/site-packages/PIL/FtexImagePlugin.py
 GbrImagePlugin|/usr/lib64/python2.7/site-packages/PIL/GbrImagePlugin.py
 GdImageFile|/usr/lib64/python2.7/site-packages/PIL/GdImageFile.py
 GifImagePlugin|/usr/lib64/python2.7/site-packages/PIL/GifImagePlugin.py
@@ -61,6 +64,7 @@ ImageGL|/usr/lib64/python2.7/site-packages/PIL/ImageGL.py
 ImageGrab|/usr/lib64/python2.7/site-packages/PIL/ImageGrab.py
 ImageMath|/usr/lib64/python2.7/site-packages/PIL/ImageMath.py
 ImageMode|/usr/lib64/python2.7/site-packages/PIL/ImageMode.py
+ImageMorph|/usr/lib64/python2.7/site-packages/PIL/ImageMorph.py
 ImageOps|/usr/lib64/python2.7/site-packages/PIL/ImageOps.py
 ImagePalette|/usr/lib64/python2.7/site-packages/PIL/ImagePalette.py
 ImagePath|/usr/lib64/python2.7/site-packages/PIL/ImagePath.py
@@ -73,11 +77,14 @@ ImageTransform|/usr/lib64/python2.7/site-packages/PIL/ImageTransform.py
 ImageWin|/usr/lib64/python2.7/site-packages/PIL/ImageWin.py
 ImtImagePlugin|/usr/lib64/python2.7/site-packages/PIL/ImtImagePlugin.py
 IptcImagePlugin|/usr/lib64/python2.7/site-packages/PIL/IptcImagePlugin.py
+Jpeg2KImagePlugin|/usr/lib64/python2.7/site-packages/PIL/Jpeg2KImagePlugin.py
 JpegImagePlugin|/usr/lib64/python2.7/site-packages/PIL/JpegImagePlugin.py
+JpegPresets|/usr/lib64/python2.7/site-packages/PIL/JpegPresets.py
 McIdasImagePlugin|/usr/lib64/python2.7/site-packages/PIL/McIdasImagePlugin.py
 MicImagePlugin|/usr/lib64/python2.7/site-packages/PIL/MicImagePlugin.py
 MimeWriter|/usr/lib64/python2.7/MimeWriter.py
 MpegImagePlugin|/usr/lib64/python2.7/site-packages/PIL/MpegImagePlugin.py
+MpoImagePlugin|/usr/lib64/python2.7/site-packages/PIL/MpoImagePlugin.py
 MspImagePlugin|/usr/lib64/python2.7/site-packages/PIL/MspImagePlugin.py
 OleFileIO|/usr/lib64/python2.7/site-packages/PIL/OleFileIO.py
 OpenGL
@@ -95,10 +102,12 @@ PcdImagePlugin|/usr/lib64/python2.7/site-packages/PIL/PcdImagePlugin.py
 PcfFontFile|/usr/lib64/python2.7/site-packages/PIL/PcfFontFile.py
 PcxImagePlugin|/usr/lib64/python2.7/site-packages/PIL/PcxImagePlugin.py
 PdfImagePlugin|/usr/lib64/python2.7/site-packages/PIL/PdfImagePlugin.py
+PdfParser|/usr/lib64/python2.7/site-packages/PIL/PdfParser.py
 PixarImagePlugin|/usr/lib64/python2.7/site-packages/PIL/PixarImagePlugin.py
 PngImagePlugin|/usr/lib64/python2.7/site-packages/PIL/PngImagePlugin.py
 PpmImagePlugin|/usr/lib64/python2.7/site-packages/PIL/PpmImagePlugin.py
 PsdImagePlugin|/usr/lib64/python2.7/site-packages/PIL/PsdImagePlugin.py
+PyAccess|/usr/lib64/python2.7/site-packages/PIL/PyAccess.py
 PyQt4.Qt|/usr/lib64/python2.7/site-packages/PyQt4/Qt.so
 PyQt4.QtCore|/usr/lib64/python2.7/site-packages/PyQt4/QtCore.so
 PyQt4.QtDBus|/usr/lib64/python2.7/site-packages/PyQt4/QtDBus.so
@@ -177,6 +186,7 @@ UserDict|/usr/lib64/python2.7/UserDict.py
 UserList|/usr/lib64/python2.7/UserList.py
 UserString|/usr/lib64/python2.7/UserString.py
 WalImageFile|/usr/lib64/python2.7/site-packages/PIL/WalImageFile.py
+WebPImagePlugin|/usr/lib64/python2.7/site-packages/PIL/WebPImagePlugin.py
 WmfImagePlugin|/usr/lib64/python2.7/site-packages/PIL/WmfImagePlugin.py
 XVThumbImagePlugin|/usr/lib64/python2.7/site-packages/PIL/XVThumbImagePlugin.py
 XbmImagePlugin|/usr/lib64/python2.7/site-packages/PIL/XbmImagePlugin.py
@@ -190,6 +200,7 @@ __main__
 __phello__|/usr/lib64/python2.7/__phello__.foo.py
 _abcoll|/usr/lib64/python2.7/_abcoll.py
 _ast
+_binary|/usr/lib64/python2.7/site-packages/PIL/_binary.py
 _bisect|/usr/lib64/python2.7/lib-dynload/_bisect.so
 _bsddb|/usr/lib64/python2.7/lib-dynload/_bsddb.so
 _bytesio
@@ -218,6 +229,7 @@ _imaging|/usr/lib64/python2.7/site-packages/PIL/_imaging.so
 _imagingcms|/usr/lib64/python2.7/site-packages/PIL/_imagingcms.so
 _imagingft|/usr/lib64/python2.7/site-packages/PIL/_imagingft.so
 _imagingmath|/usr/lib64/python2.7/site-packages/PIL/_imagingmath.so
+_imagingmorph|/usr/lib64/python2.7/site-packages/PIL/_imagingmorph.so
 _imagingtk|/usr/lib64/python2.7/site-packages/PIL/_imagingtk.so
 _io|/usr/lib64/python2.7/lib-dynload/_io.so
 _json|/usr/lib64/python2.7/lib-dynload/_json.so
@@ -249,9 +261,13 @@ _testcapi|/usr/lib64/python2.7/lib-dynload/_testcapi.so
 _thread.__init__|/usr/lib/python2.7/site-packages/_thread/__init__.py
 _threading_local|/usr/lib64/python2.7/_threading_local.py
 _tkinter|/usr/lib64/python2.7/lib-dynload/_tkinter.so
+_tkinter_finder|/usr/lib64/python2.7/site-packages/PIL/_tkinter_finder.py
+_util|/usr/lib64/python2.7/site-packages/PIL/_util.py
+_version|/usr/lib64/python2.7/site-packages/PIL/_version.py
 _warnings
 _weakref
 _weakrefset|/usr/lib64/python2.7/_weakrefset.py
+_webp|/usr/lib64/python2.7/site-packages/PIL/_webp.so
 _winreg
 abc|/usr/lib64/python2.7/abc.py
 absl.__init__|/usr/lib/python2.7/site-packages/absl/__init__.py
@@ -611,6 +627,9 @@ cupshelpers.ppds|/usr/lib/python2.7/site-packages/cupshelpers/ppds.py
 cupshelpers.xmldriverprefs|/usr/lib/python2.7/site-packages/cupshelpers/xmldriverprefs.py
 curl.__init__|/usr/lib64/python2.7/site-packages/curl/__init__.py
 cv2
+cv2.__init__|/usr/lib64/python2.7/site-packages/cv2/__init__.py
+cv2.cv2|/usr/lib64/python2.7/site-packages/cv2/cv2.so
+cv2.data.__init__|/usr/lib64/python2.7/site-packages/cv2/data/__init__.py
 cycler|/usr/lib/python2.7/site-packages/cycler.py
 datetime|/usr/lib64/python2.7/lib-dynload/datetime.so
 dateutil.__init__|/usr/lib/python2.7/site-packages/dateutil/__init__.py
@@ -1083,6 +1102,7 @@ enum.__init__|/usr/lib/python2.7/site-packages/enum/__init__.py
 errno
 exceptions
 fcntl|/usr/lib64/python2.7/lib-dynload/fcntl.so
+features|/usr/lib64/python2.7/site-packages/PIL/features.py
 filecmp|/usr/lib64/python2.7/filecmp.py
 fileinput|/usr/lib64/python2.7/fileinput.py
 fnmatch|/usr/lib64/python2.7/fnmatch.py
@@ -2704,7 +2724,6 @@ numpy.polynomial.tests.test_legendre|/usr/lib64/python2.7/site-packages/numpy/po
 numpy.polynomial.tests.test_polynomial|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_polynomial.py
 numpy.polynomial.tests.test_polyutils|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_polyutils.py
 numpy.polynomial.tests.test_printing|/usr/lib64/python2.7/site-packages/numpy/polynomial/tests/test_printing.py
-numpy.random
 numpy.random.__init__|/usr/lib64/python2.7/site-packages/numpy/random/__init__.py
 numpy.random.info|/usr/lib64/python2.7/site-packages/numpy/random/info.py
 numpy.random.mtrand|/usr/lib64/python2.7/site-packages/numpy/random/mtrand.so

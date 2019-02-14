@@ -1,7 +1,7 @@
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
 LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=linux
-configDescList=org.eclipse.launchbar.core.descriptorType.default\:ex3 ex3.py,org.eclipse.launchbar.core.descriptorType.default\:ex4 ex4.py,org.eclipse.launchbar.core.descriptorType.default\:ex5 ex5.py,org.eclipse.launchbar.core.descriptorType.default\:ex6 ex6.py,org.eclipse.launchbar.core.descriptorType.default\:ex8 ex8.py,org.eclipse.launchbar.core.descriptorType.default\:ex9 ex9.py,org.eclipse.launchbar.core.descriptorType.default\:ex11 ex11.py
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:ex13 ex13.py,org.eclipse.launchbar.core.descriptorType.default\:ex3 ex3.py,org.eclipse.launchbar.core.descriptorType.default\:ex5 ex5.py,org.eclipse.launchbar.core.descriptorType.default\:ex6 ex6.py,org.eclipse.launchbar.core.descriptorType.default\:ex8 ex8.py,org.eclipse.launchbar.core.descriptorType.default\:ex9 ex9.py,org.eclipse.launchbar.core.descriptorType.default\:ex11 ex11.py,org.eclipse.launchbar.core.descriptorType.default\:ex4 ex4.py
 eclipse.preferences.version=1
 org.eclipse.launchbar.core.descriptorType.default\:ex3\ ex3.py/activeLaunchMode=run
 org.eclipse.launchbar.core.descriptorType.default\:ex3\ ex3.py/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local
